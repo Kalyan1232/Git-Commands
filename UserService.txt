@@ -1,2 +1,34 @@
 Get the User data...
 Process the data
+
+1. git config --global user.name "Your Name"
+2. git config --global user.email "your.email@example.com"
+3. git init
+4. git status
+5. git init -b main
+6. git add "filename"
+7. git log
+8. git commit -m "comments"
+9. git add. "(Include all files)"
+10. git rm --cached "filename"
+11. git clone "path"
+12. echo "#git-course demo" >> README.md
+13. cat README.md
+14. git add README.md
+15. git commit -m "MSG"
+16. git branch -M main
+17. git remote add origin "link"
+18. git push -u origin main (-u represents upstream)
+19. git -a -m "textMSG"
+20. git tag -a version -m "MSG"
+21. git checkout -b feature1 (creation of branch)
+22. git remote -v
+23. git switch - (previous versions)
+24. git branch (local repository)
+25. git branch -all (remote repository too)
+26. git branch -d feature2 (delete)
+27. git pull origin main
+27. git graph
+28. git log --graph
+29. git merge feature1 (must be in a main branch)
+30. git switch -c feature2
